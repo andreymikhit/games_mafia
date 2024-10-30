@@ -31,7 +31,9 @@ Text Ru / En
 
 
 # Упращенная версия игры
-![image](https://github.com/user-attachments/assets/6aef99e8-c71c-4495-9b11-37f1c210cd3d)
+![smart-game](https://github.com/user-attachments/assets/108b7597-e774-4f30-a050-60934d1c9c1f)
+
+![smart-game](https://github.com/user-attachments/assets/6aef99e8-c71c-4495-9b11-37f1c210cd3d)
 
 # Все роли
 ## НОЧЬ.
