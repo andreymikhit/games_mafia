@@ -1,7 +1,7 @@
 # games_mafia
 ---
 
-## ИИ :
+## ИИ (AI):
 
 > https://habr.com/ru/articles/736494/
  
@@ -149,3 +149,4 @@ Text Ru / En
 14. Mafia -> Commissioner -> Doctor -> Maniac -> Prostitute
 15. Putana -> Mafia +Don -> Mafia Don -> Commissioner -> Doctor -> Maniac
 16. Mafia -> Maniac -> Doctor -> Commissioner -> Prostitute
+
