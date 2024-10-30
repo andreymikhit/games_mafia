@@ -87,8 +87,8 @@ Text Ru / En
 
 > The goal of civilians is to figure out and put all criminals (mafia and maniac) behind bars. 
 
-* *** In the afternoon, civilians share with each other their suspicions and the information they have managed to get, while mafia members pretend to be civilians, confusing their tracks. Only one player can be convicted during the day.
-* ***At night, the mafia and the maniac kill their victims, and the roles with special properties alternately, at the command of the presenter, "wake up" and perform actions (for example, the commissioner will recognize the role of the player). At this time, all other players sit with their eyes closed until the presenter announces the new day.
+* ***In the afternoon***, civilians share with each other their suspicions and the information they have managed to get, while mafia members pretend to be civilians, confusing their tracks. Only one player can be convicted during the day.
+* ***At night***, the mafia and the maniac kill their victims, and the roles with special properties alternately, at the command of the presenter, "wake up" and perform actions (for example, the commissioner will recognize the role of the player). At this time, all other players sit with their eyes closed until the presenter announces the new day.
  
 
 ## NIGHT.
