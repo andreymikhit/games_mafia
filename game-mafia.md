@@ -7,7 +7,7 @@
  
 > [mafia-gpt github extern](https://github.com/hiper2d/mafia-gpt)
 
-> [mafia-gpt youtebe extern](https://www.youtube.com/watch?v=jAHsLJLGfyM)
+> [mafia-gpt youtube extern](https://www.youtube.com/watch?v=jAHsLJLGfyM)
 
 ---
 
