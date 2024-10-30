@@ -25,7 +25,7 @@ Text Ru / En
 
 > * Для игры понадобится компания из 6 и более человек. Оптимальное число участников 8–12 человек.
 
-> * Цель мирных жителей — вычислить и посадить всех преступников (мафию и маньяка) за решётку. 
+> * Цель мирных жителей — вычислить и посадить всех преступников (мафию и маньяка. за решётку. 
 
 > * ***Днём*** мирные жители делятся друг с другом своими подозрениями и информацией, которую сумели добыть, в то время как члены мафии притворяются мирными жителями, путая свои следы. В течение дня можно осудить только одного игрока.
 
@@ -72,28 +72,28 @@ Text Ru / En
   
 
 ### Варианты порядка хода ролей (ночь)
-1) Мафия -> Доктор -> Комиссар
-2) Мафия -> Маньяк -> Путана -> Доктор -> Комиссар
-3) Мафия + Дон -> Дон мафии -> Комиссар -> Маньяк -> Доктор
-4) Мафия + Дон -> Путана -> Доктор -> Комиссар -> Маньяк -> Дон мафии
-5) Адвокат -> Доктор -> Телохранитель -> Мафия + Дон + Ищейка + Любовница -> Маньяк -> Любовница -> Комиссар -> Журналист -> Свидетель -> Ищейка -> Детектив -> Дон мафии -> Путана
-6) Путана -> Интриган -> Доктор -> Свидетель -> Телохранитель -> Журналист -> Комиссар -> Мафия + Дон + Интриган -> Дон мафии -> Маньяк
-7) Путана -> Ищейка -> Интриган -> Доктор -> Телохранитель -> Адвокат -> Мафия + Дон + Ищейка + Интриган + Любовница -> Комиссар -> Маньяк -> Любовница -> Дон мафии -> Шулер
-8) Священник -> Агент -> Мафия + Дон -> Дон мафии -> Детектив -> Маньяк -> Доктор -> Комиссар -> Адвокат -> Путана -> Журналист
-9) Адвокат -> Мафия+Дон -> Комиссар -> Доктор -> Путана -> Маньяк -> Дон мафии -> Журналист
-10) Ищейка -> Мафия + Дон + Ищейка -> Дон мафии -> Доктор -> Путана -> Комиссар -> Маньяк -> Судья
-11) Свидетель -> Судья -> Путана -> Интриган -> Доктор -> Свидетель -> Телохранитель -> Журналист -> Адвокат -> Священник -> Комиссар -> Мафия + Дон + Ищейка + Игтриган + Агент -> Шулер -> Любовница -> Дон мафии -> Маньяк -> Детектив
-12) Интриган -> Путана -> Телохранитель -> Доктор -> Мафия+ Дон -> Комиссар -> Детектив -> Дон мафии -> Маньяк
-13) Мафия -> Дон мафии -> Комиссар
-14) Мафия -> Комиссар -> Доктор -> Маньяк -> Путана
-15) Путана -> Мафия+Дон -> Дон мафии -> Комиссар -> Доктор -> Маньяк
-16) Мафия -> Маньяк -> Доктор -> Комиссар -> Путана
+1. Мафия -> Доктор -> Комиссар
+2. Мафия -> Маньяк -> Путана -> Доктор -> Комиссар
+3. Мафия + Дон -> Дон мафии -> Комиссар -> Маньяк -> Доктор
+4. Мафия + Дон -> Путана -> Доктор -> Комиссар -> Маньяк -> Дон мафии
+5. Адвокат -> Доктор -> Телохранитель -> Мафия + Дон + Ищейка + Любовница -> Маньяк -> Любовница -> Комиссар -> Журналист -> Свидетель -> Ищейка -> Детектив -> Дон мафии -> Путана
+6. Путана -> Интриган -> Доктор -> Свидетель -> Телохранитель -> Журналист -> Комиссар -> Мафия + Дон + Интриган -> Дон мафии -> Маньяк
+7. Путана -> Ищейка -> Интриган -> Доктор -> Телохранитель -> Адвокат -> Мафия + Дон + Ищейка + Интриган + Любовница -> Комиссар -> Маньяк -> Любовница -> Дон мафии -> Шулер
+8. Священник -> Агент -> Мафия + Дон -> Дон мафии -> Детектив -> Маньяк -> Доктор -> Комиссар -> Адвокат -> Путана -> Журналист
+9. Адвокат -> Мафия+Дон -> Комиссар -> Доктор -> Путана -> Маньяк -> Дон мафии -> Журналист
+10. Ищейка -> Мафия + Дон + Ищейка -> Дон мафии -> Доктор -> Путана -> Комиссар -> Маньяк -> Судья
+11. Свидетель -> Судья -> Путана -> Интриган -> Доктор -> Свидетель -> Телохранитель -> Журналист -> Адвокат -> Священник -> Комиссар -> Мафия + Дон + Ищейка + Игтриган + Агент -> Шулер -> Любовница -> Дон мафии -> Маньяк -> Детектив
+12. Интриган -> Путана -> Телохранитель -> Доктор -> Мафия+ Дон -> Комиссар -> Детектив -> Дон мафии -> Маньяк
+13. Мафия -> Дон мафии -> Комиссар
+14. Мафия -> Комиссар -> Доктор -> Маньяк -> Путана
+15. Путана -> Мафия+Дон -> Дон мафии -> Комиссар -> Доктор -> Маньяк
+16. Мафия -> Маньяк -> Доктор -> Комиссар -> Путана
 
 
 ### En
 > * You will need a company of 6 or more people to play. The optimal number of participants is 8-12 people.
 
-> * The goal of civilians is to figure out and put all criminals (mafia and maniac) behind bars. 
+> * The goal of civilians is to figure out and put all criminals (mafia and maniac. behind bars. 
 
 > * ***In the afternoon***, civilians share with each other their suspicions and the information they have managed to get, while mafia members pretend to be civilians, confusing their tracks. Only one player can be convicted during the day.
 
@@ -133,19 +133,19 @@ Text Ru / En
   
 
 ### Options for the order of the roles (night)
-1) Mafia -> Doctor -> Commissioner
-2) Mafia -> Maniac -> Prostitute -> Doctor -> Commissioner
-3) Mafia + Don -> Mafia Don -> Commissioner -> Maniac -> Doctor
-4) Mafia + Don -> Putana -> Doctor -> Commissioner -> Maniac -> Mafia Don
-5) Lawyer -> Doctor -> Bodyguard -> Mafia + Don + Bloodhound + Mistress -> Maniac -> Mistress -> Commissioner -> Journalist -> Witness -> Bloodhound -> Detective -> Mafia Don -> Prostitute
-6) Putana -> Schemer -> Doctor -> Witness -> Bodyguard -> Journalist -> Commissioner -> Mafia + Don + Schemer -> Mafia Don -> Maniac
-7) Putana -> Bloodhound -> Schemer -> Doctor -> Bodyguard -> Lawyer -> Mafia + Don + Bloodhound + Schemer + Mistress -> Commissioner -> Maniac -> Mistress -> Mafia Don -> Cheat
-8) Priest -> Agent -> Mafia + Don -> Mafia Don -> Detective -> Maniac -> Doctor -> Commissioner -> Lawyer -> Prostitute -> Journalist
-9) Lawyer -> Mafia+Don -> Commissioner -> Doctor -> Prostitute -> Maniac -> Mafia Don -> Journalist
-10) Bloodhound -> Mafia + Don + Bloodhound -> Mafia Don -> Doctor -> Prostitute -> Commissioner -> Maniac -> Judge
-11) Witness -> Judge -> Prostitute -> Intriguer -> Doctor -> Witness -> Bodyguard -> Journalist -> Lawyer -> Priest -> Commissioner -> Mafia + Don + Bloodhound + Igtrigan + Agent -> Sharper -> Mistress -> Mafia Don -> Maniac -> Detective
-12) Schemer -> Prostitute -> Bodyguard -> Doctor -> Mafia + Don -> Commissioner -> Detective -> Mafia Don -> Maniac
-13) Mafia -> Mafia Don -> Commissioner
-14) Mafia -> Commissioner -> Doctor -> Maniac -> Prostitute
-15) Putana -> Mafia +Don -> Mafia Don -> Commissioner -> Doctor -> Maniac
-16) Mafia -> Maniac -> Doctor -> Commissioner -> Prostitute
+1. Mafia -> Doctor -> Commissioner
+2. Mafia -> Maniac -> Prostitute -> Doctor -> Commissioner
+3. Mafia + Don -> Mafia Don -> Commissioner -> Maniac -> Doctor
+4. Mafia + Don -> Putana -> Doctor -> Commissioner -> Maniac -> Mafia Don
+5. Lawyer -> Doctor -> Bodyguard -> Mafia + Don + Bloodhound + Mistress -> Maniac -> Mistress -> Commissioner -> Journalist -> Witness -> Bloodhound -> Detective -> Mafia Don -> Prostitute
+6. Putana -> Schemer -> Doctor -> Witness -> Bodyguard -> Journalist -> Commissioner -> Mafia + Don + Schemer -> Mafia Don -> Maniac
+7. Putana -> Bloodhound -> Schemer -> Doctor -> Bodyguard -> Lawyer -> Mafia + Don + Bloodhound + Schemer + Mistress -> Commissioner -> Maniac -> Mistress -> Mafia Don -> Cheat
+8. Priest -> Agent -> Mafia + Don -> Mafia Don -> Detective -> Maniac -> Doctor -> Commissioner -> Lawyer -> Prostitute -> Journalist
+9. Lawyer -> Mafia+Don -> Commissioner -> Doctor -> Prostitute -> Maniac -> Mafia Don -> Journalist
+10. Bloodhound -> Mafia + Don + Bloodhound -> Mafia Don -> Doctor -> Prostitute -> Commissioner -> Maniac -> Judge
+11. Witness -> Judge -> Prostitute -> Intriguer -> Doctor -> Witness -> Bodyguard -> Journalist -> Lawyer -> Priest -> Commissioner -> Mafia + Don + Bloodhound + Igtrigan + Agent -> Sharper -> Mistress -> Mafia Don -> Maniac -> Detective
+12. Schemer -> Prostitute -> Bodyguard -> Doctor -> Mafia + Don -> Commissioner -> Detective -> Mafia Don -> Maniac
+13. Mafia -> Mafia Don -> Commissioner
+14. Mafia -> Commissioner -> Doctor -> Maniac -> Prostitute
+15. Putana -> Mafia +Don -> Mafia Don -> Commissioner -> Doctor -> Maniac
+16. Mafia -> Maniac -> Doctor -> Commissioner -> Prostitute
