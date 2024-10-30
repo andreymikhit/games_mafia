@@ -1,0 +1,3 @@
+game mafia
+
+bot
