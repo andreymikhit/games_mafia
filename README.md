@@ -83,137 +83,60 @@ Text Ru / En
 
 
 ### En
-Options for the order of the roles
+> You will need a company of 6 or more people to play. The optimal number of participants is 8-12 people.
 
-Role Actions
-manual
-Options for the order of the roles
-9) Lawyer -> Mafia +Don ->
-Commissioner -> Doctor -> Prostitute ->
-Maniac -> Mafia Don -> Journalistic
-list
-12) Schemer -> Prostitute ->
-Mafia + Don + Bloodhound +
-Intriguer + Mistress -
-who should I kill?
-To view the full
-instructions, scan
-Og code
-The bodyguard -> Doctor ->
-Mafia+ Don -> Commissioner ->
-Detective -> Mafia Don ->
-Maniac
-Mafia Don - who should be
-silenced or
-checked by the commissioner?
-10) Bloodhound -> Mafia + Don+
-Bloodhound -> Mafia Don -> Doctor
--> Putana -> Commissioner -> Maniac
--> Judge
-13) Mafia -> Mafia Don ->
-Commissioner
-A bloodhound - who to check?
-Intriguer - who should I
-blame?
-14) Mafia -> Commissioner -> Doctor
--> Maniac -> Prostitute
-Mistress - who
-should I block?
-11) Witness -> Judge -> Prostitute
--> Schemer -> Doctor -> Witness
--> Bodyguard ->
-Journalist -> Lawyer -> Priest ->
-Commissioner -> Mafia + Don +
-Bloodhound + Igtrigan + Agent ->
-Sharper -> Mistress ->
-Mafia Don -> Maniac -> Detective
-15) Putana -> Mafia +Don ->
-Mafia Don -> Commissioner -> Doctor ->
-Maniac
-Lawyer - who from the mafia
-to protect or check
-out the maniac?
-Sharper - who to copy?
-Maniac - who should I kill?
-16) Mafia -> Maniac -> Doctor ->
-Commissioner -> Putana
-Commissioner - who to check
-or kill?
-The judge - who to check and
-save?
-C
-NIGHT
-day
-Options for the order of the roles
-Options for the order of the roles
-Role Actions
-1.
-Announce nighttime
-incidents.
-Doctor - who should I cure?
+> The goal of civilians is to figure out and put all criminals (mafia and maniac) behind bars. 
+
+* *** In the afternoon, civilians share with each other their suspicions and the information they have managed to get, while mafia members pretend to be civilians, confusing their tracks. Only one player can be convicted during the day.
+* ***At night, the mafia and the maniac kill their victims, and the roles with special properties alternately, at the command of the presenter, "wake up" and perform actions (for example, the commissioner will recognize the role of the player). At this time, all other players sit with their eyes closed until the presenter announces the new day.
+ 
+
+## NIGHT.
+### Role Actions (night)
+* Civilians are sleeping
+* Mafia + Don + Bloodhound + Schemer + Mistress - who to kill?
+* Mafia Don - who should be silenced or checked by the commissioner?
+* Mistress - who should I block?
+* Lawyer - who from the mafia to protect or check the maniac?
+* Commissioner - who to check or kill?
+* Doctor - who should I cure?
+* Werewolf - how to reincarnate?
+* Maniac - who should I kill?
+* Bloodhound - who to check?
+* Schemer - who should I frame?
+* Sharper - who to copy?
+* The judge - who to check and save?
+* Priest - who can I talk to about the eternal?
+* Journalist - who should I spy on?
+* Bodyguard - who to protect?
+* Detective - who should I check?
+* Putana - who should I block?
+* Witness - who should I follow?
+* Rake - who to take with you?
+* Agent - how to pretend to be a mafia?
+
+## DAY.
+1. Announce the nighttime incidents.
+2. Hold an afternoon discussion (give each player 1 minute).
+3. Create a list of suspects based on the proposed candidates.
+4. To hold a vote on the list of accused.
+5. Remove the accused from the game, who has gained the majority of votes (if the number of players is the same, then the duel, for example, is from 1 to 9), reveal his role in the game.
+  
+
+### Options for the order of the roles (night)
 1) Mafia -> Doctor -> Commissioner
-6) The prostitute -> Schemer -> Doctor
--> Witness -> Bodyguard ->
-Journalist -> Commissioner ->
-Mafia + Don + Schemer ->
-Mafia Don -> Maniac
-The priest - with whom
-to talk about the eternal?
-2) Mafia -> Maniac -> Prostitute ->
-Doctor -> Commissioner
-2. Hold an afternoon
-discussion (give
-each player 1
-one minute).
-Journalist - who
-should I spy on?
-Bodyguard - who
-to protect?
-3) Mafia + Don -> Mafia Don ->
-Commissioner -> Maniac -> Doctor
-7) Putana -> Bloodhound -> Intriguer
--> Doctor -> Bodyguard ->
-Lawyer -> Mafia + Don +
-Bloodhound + Schemer + Lover
--> Commissioner -> Maniac ->
-Mistress -> Mafia Don ->
-The cheater
-3. Create a list
-of suspects
-based on the proposed
-candidates.
-Detective - who
-should I check?
-4) Mafia + Don -> Putana ->
-Doctor -> Commissioner -> Maniac ->
-Mafia Don
-Putana - who
-should I block?
-4. To hold a vote
-on the list of accused.
-Witness - who should
-I follow?
-5) Lawyer -> Doctor ->
-Bodyguard -> Mafia + Don +
-Bloodhound + Lover -> Maniac
--> Mistress -> Commissioner ->
-Journalist -> Witness ->
-Bloodhound -> Detective -> Don
-mafia -> Putana
-5.
-Remove the accused
-, who has gained
-the majority of votes, from the game,
-reveal his role in the game.
-Rake - who should I take with
-me?
-8) Priest -> Agent -> Mafia
-+ Don -> Mafia Don -> Detective
--> Maniac -> Doctor -> Commissioner
--> Lawyer -> Prostitute -> Journalistic
-
-Agent - how to pretend
-to be a mafia?
-Werewolf - how to transform
-?
-Civilians are sleeping
+2) Mafia -> Maniac -> Prostitute -> Doctor -> Commissioner
+3) Mafia + Don -> Mafia Don -> Commissioner -> Maniac -> Doctor
+4) Mafia + Don -> Putana -> Doctor -> Commissioner -> Maniac -> Mafia Don
+5) Lawyer -> Doctor -> Bodyguard -> Mafia + Don + Bloodhound + Mistress -> Maniac -> Mistress -> Commissioner -> Journalist -> Witness -> Bloodhound -> Detective -> Mafia Don -> Prostitute
+6) Putana -> Schemer -> Doctor -> Witness -> Bodyguard -> Journalist -> Commissioner -> Mafia + Don + Schemer -> Mafia Don -> Maniac
+7) Putana -> Bloodhound -> Schemer -> Doctor -> Bodyguard -> Lawyer -> Mafia + Don + Bloodhound + Schemer + Mistress -> Commissioner -> Maniac -> Mistress -> Mafia Don -> Cheat
+8) Priest -> Agent -> Mafia + Don -> Mafia Don -> Detective -> Maniac -> Doctor -> Commissioner -> Lawyer -> Prostitute -> Journalist
+9) Lawyer -> Mafia+Don -> Commissioner -> Doctor -> Prostitute -> Maniac -> Mafia Don -> Journalist
+10) Bloodhound -> Mafia + Don + Bloodhound -> Mafia Don -> Doctor -> Prostitute -> Commissioner -> Maniac -> Judge
+11) Witness -> Judge -> Prostitute -> Intriguer -> Doctor -> Witness -> Bodyguard -> Journalist -> Lawyer -> Priest -> Commissioner -> Mafia + Don + Bloodhound + Igtrigan + Agent -> Sharper -> Mistress -> Mafia Don -> Maniac -> Detective
+12) Schemer -> Prostitute -> Bodyguard -> Doctor -> Mafia + Don -> Commissioner -> Detective -> Mafia Don -> Maniac
+13) Mafia -> Mafia Don -> Commissioner
+14) Mafia -> Commissioner -> Doctor -> Maniac -> Prostitute
+15) Putana -> Mafia +Don -> Mafia Don -> Commissioner -> Doctor -> Maniac
+16) Mafia -> Maniac -> Doctor -> Commissioner -> Prostitute
