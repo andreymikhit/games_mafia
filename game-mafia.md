@@ -3,11 +3,11 @@
 
 ## ИИ (AI):
 
-> https://habr.com/ru/articles/736494/
+> [habr.com](https://habr.com/ru/articles/736494/)
  
-> https://github.com/hiper2d/mafia-gpt
+> [mafia-gpt github extern](https://github.com/hiper2d/mafia-gpt)
 
-> https://www.youtube.com/watch?v=jAHsLJLGfyM
+> [mafia-gpt youtebe extern](https://www.youtube.com/watch?v=jAHsLJLGfyM)
 
 ---
 
