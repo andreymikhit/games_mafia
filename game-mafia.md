@@ -1,13 +1,14 @@
 # games_mafia
 ---
-ИИ
-> Links:
+
+## ИИ :
 
 > https://habr.com/ru/articles/736494/
  
 > https://github.com/hiper2d/mafia-gpt
 
 > https://www.youtube.com/watch?v=jAHsLJLGfyM
+
 ---
 
 > ## Только для ознакомления и в учебных целях для подготовки ИИ чат-GPT!
@@ -22,20 +23,23 @@
 тест_1 версия
 Text Ru / En
 
-> Для игры понадобится компания из 6 и более человек. Оптимальное число участников 8–12 человек.
+> * Для игры понадобится компания из 6 и более человек. Оптимальное число участников 8–12 человек.
 
-> Цель мирных жителей — вычислить и посадить всех преступников (мафию и маньяка) за решётку. 
+> * Цель мирных жителей — вычислить и посадить всех преступников (мафию и маньяка) за решётку. 
 
-* ***Днём*** мирные жители делятся друг с другом своими подозрениями и информацией, которую сумели добыть, в то время как члены мафии притворяются мирными жителями, путая свои следы. В течение дня можно осудить только одного игрока.
-* ***Ночью*** мафия и маньяк убивают своих жертв, а роли с особыми свойствами поочерёдно, по команде ведущего, «просыпаются» и выполняют действия (например, комиссар будет узнавать роль игрока). В это время все остальные игроки сидят с закрытыми глазами, пока ведущий не объявит о наступлении нового дня.
+> * ***Днём*** мирные жители делятся друг с другом своими подозрениями и информацией, которую сумели добыть, в то время как члены мафии притворяются мирными жителями, путая свои следы. В течение дня можно осудить только одного игрока.
+
+> * ***Ночью*** мафия и маньяк убивают своих жертв, а роли с особыми свойствами поочерёдно, по команде ведущего, «просыпаются» и выполняют действия (например, комиссар будет узнавать роль игрока). В это время все остальные игроки сидят с закрытыми глазами, пока ведущий не объявит о наступлении нового дня.
 
 
-# Упращенная версия игры
+# Упрощенная версия игры
 ![smart-game](https://github.com/user-attachments/assets/108b7597-e774-4f30-a050-60934d1c9c1f)
 
 
 # Все роли
+
 ## НОЧЬ.
+
 ### Действия ролей (ночь)
 * Мирные жители - спят
 * Мафия + Дон + Ищейка + Интриган + Любовница - кого убить?
@@ -87,12 +91,13 @@ Text Ru / En
 
 
 ### En
-> You will need a company of 6 or more people to play. The optimal number of participants is 8-12 people.
+> * You will need a company of 6 or more people to play. The optimal number of participants is 8-12 people.
 
-> The goal of civilians is to figure out and put all criminals (mafia and maniac) behind bars. 
+> * The goal of civilians is to figure out and put all criminals (mafia and maniac) behind bars. 
 
-* ***In the afternoon***, civilians share with each other their suspicions and the information they have managed to get, while mafia members pretend to be civilians, confusing their tracks. Only one player can be convicted during the day.
-* ***At night***, the mafia and the maniac kill their victims, and the roles with special properties alternately, at the command of the presenter, "wake up" and perform actions (for example, the commissioner will recognize the role of the player). At this time, all other players sit with their eyes closed until the presenter announces the new day.
+> * ***In the afternoon***, civilians share with each other their suspicions and the information they have managed to get, while mafia members pretend to be civilians, confusing their tracks. Only one player can be convicted during the day.
+
+> * ***At night***, the mafia and the maniac kill their victims, and the roles with special properties alternately, at the command of the presenter, "wake up" and perform actions (for example, the commissioner will recognize the role of the player). At this time, all other players sit with their eyes closed until the presenter announces the new day.
  
 
 ## NIGHT.
