@@ -132,6 +132,12 @@ Text Ru / En
 
 
 
+|Столбец 1|Столбец 2|Столбец 3|
+|:-|:-:|-:|
+|Равнение по левому краю|Равнение по центру|Равнение по правому краю|
+|Запись|Запись|Запись|
+
+
 ### En
 > * You will need a company of 6 or more people to play. The optimal number of participants is 8-12 people.
 
